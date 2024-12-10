@@ -1,5 +1,6 @@
 body{
   padding: 5px 25px;
+  background-image: url(hatter.png);
 }
 
 p{
@@ -39,7 +40,7 @@ img{
   padding:15px;
 }
 
-#vonalkazas{
+.vonalkazas{
   display: block;
   margin-left: auto;
   margin-right: auto;
