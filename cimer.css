@@ -38,12 +38,12 @@ img{
   border: 1px solid #0F0F0F;
   box-shadow: 5px 5px 5px #7F7F7F;
   padding:15px;
+  margin: 15px;
 }
 
 .vonalkazas{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 15px;
 }
 
 .fk{
@@ -52,4 +52,8 @@ img{
 
 #teljes{
   float:right
+}
+
+a{
+  color: #7F7F7F;
 }
