@@ -44,13 +44,16 @@ img{
 .vonalkazas{
   display: block;
   margin: 15px;
+  margin: auto;
 }
 
 .fk{
   font-weight:bold
 }
 
-#teljes{
+.teljes{
+  width: 280px;
+  margin: 15px;
   float:right
 }
 
